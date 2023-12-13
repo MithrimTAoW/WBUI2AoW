@@ -25,7 +25,7 @@
       {
         "tab2": {
           "layout": 2,
-          "buttontext": <RichColor Color=\"1,0,0,1\">"Settings & Rules"</>,
+          "buttontext": "<RichColor Color=\"1,0,0,1\">Settings & Rules</>",
           "title1": "Server Settings",
           "text1": "Admin commands logged to chat!\n\nNon tek engrams auto unlock as you level!\n\nCustom drop tables!\n10% Structure damage weekdays!\n100% Structure damage weekends!\n\n4x Tameing\n4x Gathering\n4x XP\n4x Mating\n20x Hatching\n20x Maturing\n100% Imprinting Achieveable\nMax wild dino lvl: 150\nTribe Size Limit: 6\nNo Alliances\nCave Building Enabled\nNo flying in caves\nFlying stamina recovery enabled\nPlayer Weight 3x\nPlayer Fortitude 2x\nDino Stamina 1.5x\nDino Weight 2x\nStack Sizes 5x",
           "title2": "Server Rules",
