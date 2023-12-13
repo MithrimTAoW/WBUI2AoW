@@ -3,7 +3,7 @@
     "settings": {
         "OpenButton": 2,
         "HideIcon": true,
-        "HideIconAfter": 120,
+        "HideIconAfter": 60,
         "IconURL": "https://imgur.com/nZuqNE1.png",
         "DisableIconText": false,
         "IconPosition": 0,
